@@ -57,6 +57,9 @@ Langkah-Langkah :
 
 18. Tutup PostgreSQL Setup Wizard dengan menekan tombol “Finish”.
 19. Kemudian tekan ( Windows + R ), lalu ketik cmd
+
+![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/035bf618-40b8-4b2a-add4-9eb9804d3f4b)
+
 20. Setelah tampilan cmd keluar, ketik "cd C:\Program Files\PostgreSQL\16\bin" untuk masuk ke direktori "bin"
 
 ![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/aa873ce9-b794-415c-bc28-643f9839de41)
