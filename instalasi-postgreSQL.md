@@ -35,6 +35,7 @@ Langkah-Langkah :
 12. Kemudian ikuti terus proses instalasinya dengan mengklik "Next".
 13. Jika sudah ditampilan seperti ini, masukkan password yang diinginkan. 
     Perhatikan untuk selalu mengingat password tersebut karena akan digunakan untuk kamu mengakses server PostgreSQL.
+
 ![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/4318e302-cbba-47ad-9581-bfec7848660f)
 
 14. Pada tampilan selanjutnya, dapat mengatur pin yang berfungsi sebagai port number untuk PostgreSQL. 
