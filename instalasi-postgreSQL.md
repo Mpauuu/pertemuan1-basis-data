@@ -1,4 +1,4 @@
-![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/362a2672-352a-4824-a296-f2efab2debbd)==> Cara Instalasi PostgreSQL <==
+==> Cara Instalasi PostgreSQL <==
 
 Langkah-Langkah :
 
