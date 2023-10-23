@@ -3,6 +3,8 @@
 Langkah-Langkah :
 
 1. Buka browser lalu ketik keyword Download PostgreSQL, kemudian klik Download pada browser.
+
+    Link Dowmload : [link](https://www.postgresql.org/download/)
 ![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/3db638d2-3476-46c9-a645-31531f681464)
 
 3. Setelah itu pilih operasi sistem yang digunakan, karena Saya memakai Windows maka klik "Windows".
