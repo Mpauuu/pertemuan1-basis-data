@@ -3,7 +3,7 @@
   Langkah-Langkah :
 1. Buka browser lalu ketik keyword Download Python
    
-   Link Download : https://www.python.org/downloads/
+   Link Download : [link](https://www.python.org/downloads/)
    ![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/36a9887b-8101-41c0-9df9-8780fbd2bcce)
 2. Setelah di Download, cari File dengan ( ctrl + j ) untuk membuka tab Downloads pada Browser
 3. Kemudian klik show in folder, Pc akan otomatis mencari file yang sudah di download
