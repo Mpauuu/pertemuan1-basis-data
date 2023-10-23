@@ -44,3 +44,7 @@ Langkah-Langkah :
 
 13. Tutup DBeaver Setup Wizard dengan menekan tombol “Finish”.
 14. Proses Instalasi DBeaver sudah selesai.
+15. Jalankan aplikasi DBeaver yang sudah terinstal tadi.
+
+![image](https://github.com/dvaikhsn/pertemuan1-basis-data/assets/148309065/7d872106-4ae5-40d2-9e8a-6e710880b6af)
+
